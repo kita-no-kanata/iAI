@@ -4,18 +4,84 @@
 
 経済を、地図で理解する。
 
+---
+
 ## Vision
 
-投資家が企業単位ではなく、
-経済構造を理解できる世界をつくる。
+世界中の人が企業ではなく、
+
+「経済構造」
+
+を理解できる世界をつくる。
+
+---
 
 ## Problem
 
-現在の投資サービスは
-企業・株価中心であり、
-産業構造や波及効果を理解しづらい。
+Today's investment platforms focus on
 
-## Solution
+- prices
+- charts
+- financial indicators
 
-Google Mapsのように
-世界経済を探索できるプラットフォームを提供する。
+These tools help users observe markets.
+
+They do not help users understand the economy.
+
+---
+
+## Our Solution
+
+iAI visualizes the economy as an interactive map.
+
+Users can explore
+
+World
+
+↓
+
+Industry
+
+↓
+
+Technology
+
+↓
+
+Company
+
+↓
+
+News
+
+↓
+
+Events
+
+↓
+
+Economic Impact
+
+Everything is connected.
+
+---
+
+## Target User
+
+People interested in investing but wanting deeper understanding.
+
+Business professionals.
+
+Consultants.
+
+Students.
+
+Executives.
+
+Anyone curious about how the world works.
+
+---
+
+## Success Metric
+
+A user opens iAI for five minutes every morning and gains a clear understanding of what happened in the global economy.
